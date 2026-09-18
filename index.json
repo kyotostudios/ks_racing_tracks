@@ -1,0 +1,695 @@
+{
+  "repository": "kyotostudios/ks_racing_tracks",
+  "category": "circuit",
+  "count": 86,
+  "tracks": [
+    {
+      "name": "10-80",
+      "slug": "10-80",
+      "file": "tracks/circuit/10-80.json",
+      "raw_url": "https://raw.githubusercontent.com/kyotostudios/ks_racing_tracks/main/tracks/circuit/10-80.json",
+      "checkpoints": 50,
+      "layout": "circuit"
+    },
+    {
+      "name": "Aftershock",
+      "slug": "aftershock",
+      "file": "tracks/circuit/aftershock.json",
+      "raw_url": "https://raw.githubusercontent.com/kyotostudios/ks_racing_tracks/main/tracks/circuit/aftershock.json",
+      "checkpoints": 48,
+      "layout": "circuit"
+    },
+    {
+      "name": "Airstrip Assault",
+      "slug": "airstrip-assault",
+      "file": "tracks/circuit/airstrip-assault.json",
+      "raw_url": "https://raw.githubusercontent.com/kyotostudios/ks_racing_tracks/main/tracks/circuit/airstrip-assault.json",
+      "checkpoints": 37,
+      "layout": "circuit"
+    },
+    {
+      "name": "BBD Breeze",
+      "slug": "bbd-breeze",
+      "file": "tracks/circuit/bbd-breeze.json",
+      "raw_url": "https://raw.githubusercontent.com/kyotostudios/ks_racing_tracks/main/tracks/circuit/bbd-breeze.json",
+      "checkpoints": 50,
+      "layout": "circuit"
+    },
+    {
+      "name": "Birdcity GP",
+      "slug": "birdcity-gp",
+      "file": "tracks/circuit/birdcity-gp.json",
+      "raw_url": "https://raw.githubusercontent.com/kyotostudios/ks_racing_tracks/main/tracks/circuit/birdcity-gp.json",
+      "checkpoints": 120,
+      "layout": "circuit"
+    },
+    {
+      "name": "Black Box",
+      "slug": "black-box",
+      "file": "tracks/circuit/black-box.json",
+      "raw_url": "https://raw.githubusercontent.com/kyotostudios/ks_racing_tracks/main/tracks/circuit/black-box.json",
+      "checkpoints": 68,
+      "layout": "circuit"
+    },
+    {
+      "name": "Blackout",
+      "slug": "blackout",
+      "file": "tracks/circuit/blackout.json",
+      "raw_url": "https://raw.githubusercontent.com/kyotostudios/ks_racing_tracks/main/tracks/circuit/blackout.json",
+      "checkpoints": 46,
+      "layout": "circuit"
+    },
+    {
+      "name": "Canyon Touge",
+      "slug": "canyon-touge",
+      "file": "tracks/circuit/canyon-touge.json",
+      "raw_url": "https://raw.githubusercontent.com/kyotostudios/ks_racing_tracks/main/tracks/circuit/canyon-touge.json",
+      "checkpoints": 89,
+      "layout": "circuit"
+    },
+    {
+      "name": "Cargo Vroom",
+      "slug": "cargo-vroom",
+      "file": "tracks/circuit/cargo-vroom.json",
+      "raw_url": "https://raw.githubusercontent.com/kyotostudios/ks_racing_tracks/main/tracks/circuit/cargo-vroom.json",
+      "checkpoints": 36,
+      "layout": "circuit"
+    },
+    {
+      "name": "Carry Out",
+      "slug": "carry-out",
+      "file": "tracks/circuit/carry-out.json",
+      "raw_url": "https://raw.githubusercontent.com/kyotostudios/ks_racing_tracks/main/tracks/circuit/carry-out.json",
+      "checkpoints": 52,
+      "layout": "circuit"
+    },
+    {
+      "name": "Chincane Attack",
+      "slug": "chincane-attack",
+      "file": "tracks/circuit/chincane-attack.json",
+      "raw_url": "https://raw.githubusercontent.com/kyotostudios/ks_racing_tracks/main/tracks/circuit/chincane-attack.json",
+      "checkpoints": 45,
+      "layout": "circuit"
+    },
+    {
+      "name": "City GP",
+      "slug": "city-gp",
+      "file": "tracks/circuit/city-gp.json",
+      "raw_url": "https://raw.githubusercontent.com/kyotostudios/ks_racing_tracks/main/tracks/circuit/city-gp.json",
+      "checkpoints": 90,
+      "layout": "circuit"
+    },
+    {
+      "name": "Complex Route",
+      "slug": "complex-route",
+      "file": "tracks/circuit/complex-route.json",
+      "raw_url": "https://raw.githubusercontent.com/kyotostudios/ks_racing_tracks/main/tracks/circuit/complex-route.json",
+      "checkpoints": 61,
+      "layout": "circuit"
+    },
+    {
+      "name": "Concrete Corners",
+      "slug": "concrete-corners",
+      "file": "tracks/circuit/concrete-corners.json",
+      "raw_url": "https://raw.githubusercontent.com/kyotostudios/ks_racing_tracks/main/tracks/circuit/concrete-corners.json",
+      "checkpoints": 69,
+      "layout": "circuit"
+    },
+    {
+      "name": "Dance Dance Revolution",
+      "slug": "dance-dance-revolution",
+      "file": "tracks/circuit/dance-dance-revolution.json",
+      "raw_url": "https://raw.githubusercontent.com/kyotostudios/ks_racing_tracks/main/tracks/circuit/dance-dance-revolution.json",
+      "checkpoints": 81,
+      "layout": "circuit"
+    },
+    {
+      "name": "Directors Cut",
+      "slug": "directors-cut",
+      "file": "tracks/circuit/directors-cut.json",
+      "raw_url": "https://raw.githubusercontent.com/kyotostudios/ks_racing_tracks/main/tracks/circuit/directors-cut.json",
+      "checkpoints": 39,
+      "layout": "circuit"
+    },
+    {
+      "name": "District 06",
+      "slug": "district-06",
+      "file": "tracks/circuit/district-06.json",
+      "raw_url": "https://raw.githubusercontent.com/kyotostudios/ks_racing_tracks/main/tracks/circuit/district-06.json",
+      "checkpoints": 49,
+      "layout": "circuit"
+    },
+    {
+      "name": "Dking Benchtime Circuit",
+      "slug": "dking-benchtime-circuit",
+      "file": "tracks/circuit/dking-benchtime-circuit.json",
+      "raw_url": "https://raw.githubusercontent.com/kyotostudios/ks_racing_tracks/main/tracks/circuit/dking-benchtime-circuit.json",
+      "checkpoints": 55,
+      "layout": "circuit"
+    },
+    {
+      "name": "Docks Lines",
+      "slug": "docks-lines",
+      "file": "tracks/circuit/docks-lines.json",
+      "raw_url": "https://raw.githubusercontent.com/kyotostudios/ks_racing_tracks/main/tracks/circuit/docks-lines.json",
+      "checkpoints": 51,
+      "layout": "circuit"
+    },
+    {
+      "name": "Double Trouble",
+      "slug": "double-trouble",
+      "file": "tracks/circuit/double-trouble.json",
+      "raw_url": "https://raw.githubusercontent.com/kyotostudios/ks_racing_tracks/main/tracks/circuit/double-trouble.json",
+      "checkpoints": 46,
+      "layout": "circuit"
+    },
+    {
+      "name": "Downtown Raceway",
+      "slug": "downtown-raceway",
+      "file": "tracks/circuit/downtown-raceway.json",
+      "raw_url": "https://raw.githubusercontent.com/kyotostudios/ks_racing_tracks/main/tracks/circuit/downtown-raceway.json",
+      "checkpoints": 41,
+      "layout": "circuit"
+    },
+    {
+      "name": "Downtown Throwdown",
+      "slug": "downtown-throwdown",
+      "file": "tracks/circuit/downtown-throwdown.json",
+      "raw_url": "https://raw.githubusercontent.com/kyotostudios/ks_racing_tracks/main/tracks/circuit/downtown-throwdown.json",
+      "checkpoints": 48,
+      "layout": "circuit"
+    },
+    {
+      "name": "Duck it We Ball",
+      "slug": "duck-it-we-ball",
+      "file": "tracks/circuit/duck-it-we-ball.json",
+      "raw_url": "https://raw.githubusercontent.com/kyotostudios/ks_racing_tracks/main/tracks/circuit/duck-it-we-ball.json",
+      "checkpoints": 47,
+      "layout": "circuit"
+    },
+    {
+      "name": "Dueling Dragons",
+      "slug": "dueling-dragons",
+      "file": "tracks/circuit/dueling-dragons.json",
+      "raw_url": "https://raw.githubusercontent.com/kyotostudios/ks_racing_tracks/main/tracks/circuit/dueling-dragons.json",
+      "checkpoints": 56,
+      "layout": "circuit"
+    },
+    {
+      "name": "Eastside Flight",
+      "slug": "eastside-flight",
+      "file": "tracks/circuit/eastside-flight.json",
+      "raw_url": "https://raw.githubusercontent.com/kyotostudios/ks_racing_tracks/main/tracks/circuit/eastside-flight.json",
+      "checkpoints": 55,
+      "layout": "circuit"
+    },
+    {
+      "name": "Eastside GP",
+      "slug": "eastside-gp",
+      "file": "tracks/circuit/eastside-gp.json",
+      "raw_url": "https://raw.githubusercontent.com/kyotostudios/ks_racing_tracks/main/tracks/circuit/eastside-gp.json",
+      "checkpoints": 79,
+      "layout": "circuit"
+    },
+    {
+      "name": "Eastside Oilers",
+      "slug": "eastside-oilers",
+      "file": "tracks/circuit/eastside-oilers.json",
+      "raw_url": "https://raw.githubusercontent.com/kyotostudios/ks_racing_tracks/main/tracks/circuit/eastside-oilers.json",
+      "checkpoints": 26,
+      "layout": "circuit"
+    },
+    {
+      "name": "El Rancho GP",
+      "slug": "el-rancho-gp",
+      "file": "tracks/circuit/el-rancho-gp.json",
+      "raw_url": "https://raw.githubusercontent.com/kyotostudios/ks_racing_tracks/main/tracks/circuit/el-rancho-gp.json",
+      "checkpoints": 105,
+      "layout": "circuit"
+    },
+    {
+      "name": "FJF Casino",
+      "slug": "fjf-casino",
+      "file": "tracks/circuit/fjf-casino.json",
+      "raw_url": "https://raw.githubusercontent.com/kyotostudios/ks_racing_tracks/main/tracks/circuit/fjf-casino.json",
+      "checkpoints": 54,
+      "layout": "circuit"
+    },
+    {
+      "name": "G Street",
+      "slug": "g-street",
+      "file": "tracks/circuit/g-street.json",
+      "raw_url": "https://raw.githubusercontent.com/kyotostudios/ks_racing_tracks/main/tracks/circuit/g-street.json",
+      "checkpoints": 46,
+      "layout": "circuit"
+    },
+    {
+      "name": "Galileo Touge",
+      "slug": "galileo-touge",
+      "file": "tracks/circuit/galileo-touge.json",
+      "raw_url": "https://raw.githubusercontent.com/kyotostudios/ks_racing_tracks/main/tracks/circuit/galileo-touge.json",
+      "checkpoints": 52,
+      "layout": "circuit"
+    },
+    {
+      "name": "Gambling Addicts",
+      "slug": "gambling-addicts",
+      "file": "tracks/circuit/gambling-addicts.json",
+      "raw_url": "https://raw.githubusercontent.com/kyotostudios/ks_racing_tracks/main/tracks/circuit/gambling-addicts.json",
+      "checkpoints": 57,
+      "layout": "circuit"
+    },
+    {
+      "name": "Grand Prix",
+      "slug": "grand-prix",
+      "file": "tracks/circuit/grand-prix.json",
+      "raw_url": "https://raw.githubusercontent.com/kyotostudios/ks_racing_tracks/main/tracks/circuit/grand-prix.json",
+      "checkpoints": 78,
+      "layout": "circuit"
+    },
+    {
+      "name": "Hangover Hills",
+      "slug": "hangover-hills",
+      "file": "tracks/circuit/hangover-hills.json",
+      "raw_url": "https://raw.githubusercontent.com/kyotostudios/ks_racing_tracks/main/tracks/circuit/hangover-hills.json",
+      "checkpoints": 45,
+      "layout": "circuit"
+    },
+    {
+      "name": "Hidden Gem",
+      "slug": "hidden-gem",
+      "file": "tracks/circuit/hidden-gem.json",
+      "raw_url": "https://raw.githubusercontent.com/kyotostudios/ks_racing_tracks/main/tracks/circuit/hidden-gem.json",
+      "checkpoints": 58,
+      "layout": "circuit"
+    },
+    {
+      "name": "High Stakes Raceway",
+      "slug": "high-stakes-raceway",
+      "file": "tracks/circuit/high-stakes-raceway.json",
+      "raw_url": "https://raw.githubusercontent.com/kyotostudios/ks_racing_tracks/main/tracks/circuit/high-stakes-raceway.json",
+      "checkpoints": 35,
+      "layout": "circuit"
+    },
+    {
+      "name": "Homewrecked",
+      "slug": "homewrecked",
+      "file": "tracks/circuit/homewrecked.json",
+      "raw_url": "https://raw.githubusercontent.com/kyotostudios/ks_racing_tracks/main/tracks/circuit/homewrecked.json",
+      "checkpoints": 43,
+      "layout": "circuit"
+    },
+    {
+      "name": "Hotbird",
+      "slug": "hotbird",
+      "file": "tracks/circuit/hotbird.json",
+      "raw_url": "https://raw.githubusercontent.com/kyotostudios/ks_racing_tracks/main/tracks/circuit/hotbird.json",
+      "checkpoints": 46,
+      "layout": "circuit"
+    },
+    {
+      "name": "IDK",
+      "slug": "idk",
+      "file": "tracks/circuit/idk.json",
+      "raw_url": "https://raw.githubusercontent.com/kyotostudios/ks_racing_tracks/main/tracks/circuit/idk.json",
+      "checkpoints": 60,
+      "layout": "circuit"
+    },
+    {
+      "name": "Industry Standard",
+      "slug": "industry-standard",
+      "file": "tracks/circuit/industry-standard.json",
+      "raw_url": "https://raw.githubusercontent.com/kyotostudios/ks_racing_tracks/main/tracks/circuit/industry-standard.json",
+      "checkpoints": 44,
+      "layout": "circuit"
+    },
+    {
+      "name": "JetOilers",
+      "slug": "jetoilers",
+      "file": "tracks/circuit/jetoilers.json",
+      "raw_url": "https://raw.githubusercontent.com/kyotostudios/ks_racing_tracks/main/tracks/circuit/jetoilers.json",
+      "checkpoints": 45,
+      "layout": "circuit"
+    },
+    {
+      "name": "Jetsam GP",
+      "slug": "jetsam-gp",
+      "file": "tracks/circuit/jetsam-gp.json",
+      "raw_url": "https://raw.githubusercontent.com/kyotostudios/ks_racing_tracks/main/tracks/circuit/jetsam-gp.json",
+      "checkpoints": 65,
+      "layout": "circuit"
+    },
+    {
+      "name": "Jetsam Joyride",
+      "slug": "jetsam-joyride",
+      "file": "tracks/circuit/jetsam-joyride.json",
+      "raw_url": "https://raw.githubusercontent.com/kyotostudios/ks_racing_tracks/main/tracks/circuit/jetsam-joyride.json",
+      "checkpoints": 28,
+      "layout": "circuit"
+    },
+    {
+      "name": "LS River Rapids",
+      "slug": "ls-river-rapids",
+      "file": "tracks/circuit/ls-river-rapids.json",
+      "raw_url": "https://raw.githubusercontent.com/kyotostudios/ks_racing_tracks/main/tracks/circuit/ls-river-rapids.json",
+      "checkpoints": 78,
+      "layout": "circuit"
+    },
+    {
+      "name": "Midnight Flight",
+      "slug": "midnight-flight",
+      "file": "tracks/circuit/midnight-flight.json",
+      "raw_url": "https://raw.githubusercontent.com/kyotostudios/ks_racing_tracks/main/tracks/circuit/midnight-flight.json",
+      "checkpoints": 53,
+      "layout": "circuit"
+    },
+    {
+      "name": "Militant Maneuvers",
+      "slug": "militant-maneuvers",
+      "file": "tracks/circuit/militant-maneuvers.json",
+      "raw_url": "https://raw.githubusercontent.com/kyotostudios/ks_racing_tracks/main/tracks/circuit/militant-maneuvers.json",
+      "checkpoints": 75,
+      "layout": "circuit"
+    },
+    {
+      "name": "Mockingbird",
+      "slug": "mockingbird",
+      "file": "tracks/circuit/mockingbird.json",
+      "raw_url": "https://raw.githubusercontent.com/kyotostudios/ks_racing_tracks/main/tracks/circuit/mockingbird.json",
+      "checkpoints": 50,
+      "layout": "circuit"
+    },
+    {
+      "name": "Narc",
+      "slug": "narc",
+      "file": "tracks/circuit/narc.json",
+      "raw_url": "https://raw.githubusercontent.com/kyotostudios/ks_racing_tracks/main/tracks/circuit/narc.json",
+      "checkpoints": 40,
+      "layout": "circuit"
+    },
+    {
+      "name": "Observatory GP",
+      "slug": "observatory-gp",
+      "file": "tracks/circuit/observatory-gp.json",
+      "raw_url": "https://raw.githubusercontent.com/kyotostudios/ks_racing_tracks/main/tracks/circuit/observatory-gp.json",
+      "checkpoints": 78,
+      "layout": "circuit"
+    },
+    {
+      "name": "On The Way To Lockdown",
+      "slug": "on-the-way-to-lockdown",
+      "file": "tracks/circuit/on-the-way-to-lockdown.json",
+      "raw_url": "https://raw.githubusercontent.com/kyotostudios/ks_racing_tracks/main/tracks/circuit/on-the-way-to-lockdown.json",
+      "checkpoints": 51,
+      "layout": "circuit"
+    },
+    {
+      "name": "On The Way To Lockdown 2.0",
+      "slug": "on-the-way-to-lockdown-2-0",
+      "file": "tracks/circuit/on-the-way-to-lockdown-2-0.json",
+      "raw_url": "https://raw.githubusercontent.com/kyotostudios/ks_racing_tracks/main/tracks/circuit/on-the-way-to-lockdown-2-0.json",
+      "checkpoints": 54,
+      "layout": "circuit"
+    },
+    {
+      "name": "One Trouble",
+      "slug": "one-trouble",
+      "file": "tracks/circuit/one-trouble.json",
+      "raw_url": "https://raw.githubusercontent.com/kyotostudios/ks_racing_tracks/main/tracks/circuit/one-trouble.json",
+      "checkpoints": 55,
+      "layout": "circuit"
+    },
+    {
+      "name": "Poison Frog",
+      "slug": "poison-frog",
+      "file": "tracks/circuit/poison-frog.json",
+      "raw_url": "https://raw.githubusercontent.com/kyotostudios/ks_racing_tracks/main/tracks/circuit/poison-frog.json",
+      "checkpoints": 20,
+      "layout": "circuit"
+    },
+    {
+      "name": "Popular Way",
+      "slug": "popular-way",
+      "file": "tracks/circuit/popular-way.json",
+      "raw_url": "https://raw.githubusercontent.com/kyotostudios/ks_racing_tracks/main/tracks/circuit/popular-way.json",
+      "checkpoints": 41,
+      "layout": "circuit"
+    },
+    {
+      "name": "Rags to Riches",
+      "slug": "rags-to-riches",
+      "file": "tracks/circuit/rags-to-riches.json",
+      "raw_url": "https://raw.githubusercontent.com/kyotostudios/ks_racing_tracks/main/tracks/circuit/rags-to-riches.json",
+      "checkpoints": 41,
+      "layout": "circuit"
+    },
+    {
+      "name": "Redline Roulette",
+      "slug": "redline-roulette",
+      "file": "tracks/circuit/redline-roulette.json",
+      "raw_url": "https://raw.githubusercontent.com/kyotostudios/ks_racing_tracks/main/tracks/circuit/redline-roulette.json",
+      "checkpoints": 46,
+      "layout": "circuit"
+    },
+    {
+      "name": "Remote Rhythm",
+      "slug": "remote-rhythm",
+      "file": "tracks/circuit/remote-rhythm.json",
+      "raw_url": "https://raw.githubusercontent.com/kyotostudios/ks_racing_tracks/main/tracks/circuit/remote-rhythm.json",
+      "checkpoints": 49,
+      "layout": "circuit"
+    },
+    {
+      "name": "Rockford Blvd",
+      "slug": "rockford-blvd",
+      "file": "tracks/circuit/rockford-blvd.json",
+      "raw_url": "https://raw.githubusercontent.com/kyotostudios/ks_racing_tracks/main/tracks/circuit/rockford-blvd.json",
+      "checkpoints": 51,
+      "layout": "circuit"
+    },
+    {
+      "name": "Rockford Driver",
+      "slug": "rockford-driver",
+      "file": "tracks/circuit/rockford-driver.json",
+      "raw_url": "https://raw.githubusercontent.com/kyotostudios/ks_racing_tracks/main/tracks/circuit/rockford-driver.json",
+      "checkpoints": 49,
+      "layout": "circuit"
+    },
+    {
+      "name": "Rockford Hills",
+      "slug": "rockford-hills",
+      "file": "tracks/circuit/rockford-hills.json",
+      "raw_url": "https://raw.githubusercontent.com/kyotostudios/ks_racing_tracks/main/tracks/circuit/rockford-hills.json",
+      "checkpoints": 75,
+      "layout": "circuit"
+    },
+    {
+      "name": "Rockford Run",
+      "slug": "rockford-run",
+      "file": "tracks/circuit/rockford-run.json",
+      "raw_url": "https://raw.githubusercontent.com/kyotostudios/ks_racing_tracks/main/tracks/circuit/rockford-run.json",
+      "checkpoints": 46,
+      "layout": "circuit"
+    },
+    {
+      "name": "Roxwood Valley",
+      "slug": "roxwood-valley",
+      "file": "tracks/circuit/roxwood-valley.json",
+      "raw_url": "https://raw.githubusercontent.com/kyotostudios/ks_racing_tracks/main/tracks/circuit/roxwood-valley.json",
+      "checkpoints": 37,
+      "layout": "circuit"
+    },
+    {
+      "name": "Rush Hour",
+      "slug": "rush-hour",
+      "file": "tracks/circuit/rush-hour.json",
+      "raw_url": "https://raw.githubusercontent.com/kyotostudios/ks_racing_tracks/main/tracks/circuit/rush-hour.json",
+      "checkpoints": 36,
+      "layout": "circuit"
+    },
+    {
+      "name": "Seeking Evolution",
+      "slug": "seeking-evolution",
+      "file": "tracks/circuit/seeking-evolution.json",
+      "raw_url": "https://raw.githubusercontent.com/kyotostudios/ks_racing_tracks/main/tracks/circuit/seeking-evolution.json",
+      "checkpoints": 43,
+      "layout": "circuit"
+    },
+    {
+      "name": "Shinobi Street",
+      "slug": "shinobi-street",
+      "file": "tracks/circuit/shinobi-street.json",
+      "raw_url": "https://raw.githubusercontent.com/kyotostudios/ks_racing_tracks/main/tracks/circuit/shinobi-street.json",
+      "checkpoints": 47,
+      "layout": "circuit"
+    },
+    {
+      "name": "Sinner's Path",
+      "slug": "sinners-path",
+      "file": "tracks/circuit/sinners-path.json",
+      "raw_url": "https://raw.githubusercontent.com/kyotostudios/ks_racing_tracks/main/tracks/circuit/sinners-path.json",
+      "checkpoints": 16,
+      "layout": "circuit"
+    },
+    {
+      "name": "Sisyphus Climb",
+      "slug": "sisyphus-climb",
+      "file": "tracks/circuit/sisyphus-climb.json",
+      "raw_url": "https://raw.githubusercontent.com/kyotostudios/ks_racing_tracks/main/tracks/circuit/sisyphus-climb.json",
+      "checkpoints": 49,
+      "layout": "circuit"
+    },
+    {
+      "name": "Slackerz Toug",
+      "slug": "slackerz-toug",
+      "file": "tracks/circuit/slackerz-toug.json",
+      "raw_url": "https://raw.githubusercontent.com/kyotostudios/ks_racing_tracks/main/tracks/circuit/slackerz-toug.json",
+      "checkpoints": 35,
+      "layout": "circuit"
+    },
+    {
+      "name": "South Street",
+      "slug": "south-street",
+      "file": "tracks/circuit/south-street.json",
+      "raw_url": "https://raw.githubusercontent.com/kyotostudios/ks_racing_tracks/main/tracks/circuit/south-street.json",
+      "checkpoints": 61,
+      "layout": "circuit"
+    },
+    {
+      "name": "Spirit Valley",
+      "slug": "spirit-valley",
+      "file": "tracks/circuit/spirit-valley.json",
+      "raw_url": "https://raw.githubusercontent.com/kyotostudios/ks_racing_tracks/main/tracks/circuit/spirit-valley.json",
+      "checkpoints": 45,
+      "layout": "circuit"
+    },
+    {
+      "name": "The Hot Lap Incident",
+      "slug": "the-hot-lap-incident",
+      "file": "tracks/circuit/the-hot-lap-incident.json",
+      "raw_url": "https://raw.githubusercontent.com/kyotostudios/ks_racing_tracks/main/tracks/circuit/the-hot-lap-incident.json",
+      "checkpoints": 50,
+      "layout": "circuit"
+    },
+    {
+      "name": "Tilted Towers",
+      "slug": "tilted-towers",
+      "file": "tracks/circuit/tilted-towers.json",
+      "raw_url": "https://raw.githubusercontent.com/kyotostudios/ks_racing_tracks/main/tracks/circuit/tilted-towers.json",
+      "checkpoints": 33,
+      "layout": "circuit"
+    },
+    {
+      "name": "Triple Trouble",
+      "slug": "triple-trouble",
+      "file": "tracks/circuit/triple-trouble.json",
+      "raw_url": "https://raw.githubusercontent.com/kyotostudios/ks_racing_tracks/main/tracks/circuit/triple-trouble.json",
+      "checkpoints": 38,
+      "layout": "circuit"
+    },
+    {
+      "name": "Tunel Antics",
+      "slug": "tunel-antics",
+      "file": "tracks/circuit/tunel-antics.json",
+      "raw_url": "https://raw.githubusercontent.com/kyotostudios/ks_racing_tracks/main/tracks/circuit/tunel-antics.json",
+      "checkpoints": 58,
+      "layout": "circuit"
+    },
+    {
+      "name": "Tunel Vision",
+      "slug": "tunel-vision",
+      "file": "tracks/circuit/tunel-vision.json",
+      "raw_url": "https://raw.githubusercontent.com/kyotostudios/ks_racing_tracks/main/tracks/circuit/tunel-vision.json",
+      "checkpoints": 44,
+      "layout": "circuit"
+    },
+    {
+      "name": "Tunnel Run",
+      "slug": "tunnel-run",
+      "file": "tracks/circuit/tunnel-run.json",
+      "raw_url": "https://raw.githubusercontent.com/kyotostudios/ks_racing_tracks/main/tracks/circuit/tunnel-run.json",
+      "checkpoints": 65,
+      "layout": "circuit"
+    },
+    {
+      "name": "Uptown Lift",
+      "slug": "uptown-lift",
+      "file": "tracks/circuit/uptown-lift.json",
+      "raw_url": "https://raw.githubusercontent.com/kyotostudios/ks_racing_tracks/main/tracks/circuit/uptown-lift.json",
+      "checkpoints": 40,
+      "layout": "circuit"
+    },
+    {
+      "name": "Urban Antics",
+      "slug": "urban-antics",
+      "file": "tracks/circuit/urban-antics.json",
+      "raw_url": "https://raw.githubusercontent.com/kyotostudios/ks_racing_tracks/main/tracks/circuit/urban-antics.json",
+      "checkpoints": 53,
+      "layout": "circuit"
+    },
+    {
+      "name": "Urban Challenge",
+      "slug": "urban-challenge",
+      "file": "tracks/circuit/urban-challenge.json",
+      "raw_url": "https://raw.githubusercontent.com/kyotostudios/ks_racing_tracks/main/tracks/circuit/urban-challenge.json",
+      "checkpoints": 40,
+      "layout": "circuit"
+    },
+    {
+      "name": "Utopia Adventure",
+      "slug": "utopia-adventure",
+      "file": "tracks/circuit/utopia-adventure.json",
+      "raw_url": "https://raw.githubusercontent.com/kyotostudios/ks_racing_tracks/main/tracks/circuit/utopia-adventure.json",
+      "checkpoints": 35,
+      "layout": "circuit"
+    },
+    {
+      "name": "VCB Initiation",
+      "slug": "vcb-initiation",
+      "file": "tracks/circuit/vcb-initiation.json",
+      "raw_url": "https://raw.githubusercontent.com/kyotostudios/ks_racing_tracks/main/tracks/circuit/vcb-initiation.json",
+      "checkpoints": 120,
+      "layout": "circuit"
+    },
+    {
+      "name": "Velocity Voyage",
+      "slug": "velocity-voyage",
+      "file": "tracks/circuit/velocity-voyage.json",
+      "raw_url": "https://raw.githubusercontent.com/kyotostudios/ks_racing_tracks/main/tracks/circuit/velocity-voyage.json",
+      "checkpoints": 46,
+      "layout": "circuit"
+    },
+    {
+      "name": "VendettB",
+      "slug": "vendettb",
+      "file": "tracks/circuit/vendettb.json",
+      "raw_url": "https://raw.githubusercontent.com/kyotostudios/ks_racing_tracks/main/tracks/circuit/vendettb.json",
+      "checkpoints": 95,
+      "layout": "circuit"
+    },
+    {
+      "name": "Vinewood All Stars",
+      "slug": "vinewood-all-stars",
+      "file": "tracks/circuit/vinewood-all-stars.json",
+      "raw_url": "https://raw.githubusercontent.com/kyotostudios/ks_racing_tracks/main/tracks/circuit/vinewood-all-stars.json",
+      "checkpoints": 50,
+      "layout": "circuit"
+    },
+    {
+      "name": "Vinewood Bowl",
+      "slug": "vinewood-bowl",
+      "file": "tracks/circuit/vinewood-bowl.json",
+      "raw_url": "https://raw.githubusercontent.com/kyotostudios/ks_racing_tracks/main/tracks/circuit/vinewood-bowl.json",
+      "checkpoints": 77,
+      "layout": "circuit"
+    },
+    {
+      "name": "Vinewood GP",
+      "slug": "vinewood-gp",
+      "file": "tracks/circuit/vinewood-gp.json",
+      "raw_url": "https://raw.githubusercontent.com/kyotostudios/ks_racing_tracks/main/tracks/circuit/vinewood-gp.json",
+      "checkpoints": 34,
+      "layout": "circuit"
+    }
+  ]
+}
